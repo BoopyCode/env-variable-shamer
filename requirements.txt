@@ -1,0 +1,2 @@
+# No external dependencies - uses Python's standard library
+# Because adding dependencies would be just another thing to document
